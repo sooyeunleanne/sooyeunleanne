@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a **software developer** 👩🏻‍💻 passionate about open source projects and collaborative work.
+I'm a **Software Developer** 👩🏻‍💻 passionate about open source projects and collaborative work.
 
 ### 💻 Technology Stack:
 - C++
