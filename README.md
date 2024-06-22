@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I'm a **Systems Design Enginnering Student** at the University of Waterloo, passionate about open source software projects and collaborative work.
+I'm Leanne, a **Systems Design Enginnering Student** at the University of Waterloo, passionate about open source software projects and collaborative work.
 
 ### 💻 Technology Stack:
 - C++
@@ -16,4 +16,4 @@ I'm a **Systems Design Enginnering Student** at the University of Waterloo, pass
 - AI / Machine learning
 
 ### Connect with me:
-- [LinkedIn]((https://www.linkedin.com/in/sooyeunleanne/))
+- [LinkedIn](https://www.linkedin.com/in/sooyeunleanne/)
