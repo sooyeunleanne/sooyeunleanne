@@ -17,3 +17,4 @@ I'm Leanne, a **Systems Design Enginnering Student** at the University of Waterl
 
 ### Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/sooyeunleanne/)
+- [Email](sooyeunleanne@gmail.com)
