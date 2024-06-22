@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi 👋
 
-I'm a **Software Developer** 👩🏻‍💻 passionate about open source projects and collaborative work.
+I'm a **Systems Design Enginnering Student** at the University of Waterloo, passionate about open source software projects and collaborative work.
 
 ### 💻 Technology Stack:
 - C++
