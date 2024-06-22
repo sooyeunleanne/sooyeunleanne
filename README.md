@@ -20,3 +20,4 @@ I'm Leanne, a **Systems Design Engineering Student** at the University of Waterl
 ### Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/sooyeunleanne/)
 - [Personal Website](https://sooyeunleanne.github.io/)
+- Or email me at (sooyeunleanne@gmail.com)
