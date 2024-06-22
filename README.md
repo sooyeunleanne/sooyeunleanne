@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I'm Leanne, a **Systems Design Enginnering Student** at the University of Waterloo, passionate about open source software projects and collaborative work.
+I'm Leanne, a **Systems Design Engineering Student** at the University of Waterloo, passionate about open source software projects and collaborative work.
 
 ### 💻 Languages and Tools:
 - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="1rem"/>
