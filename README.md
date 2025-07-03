@@ -22,5 +22,3 @@ I'm Leanne, a **Systems Design Engineering Student** at the University of Waterl
 - [LinkedIn](https://www.linkedin.com/in/sooyeunleanne/)
 - [Personal Website](https://sooyeunleanne.github.io/)
 - Or email me at (sooyeunleanne@gmail.com)
-
-![Leanne's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sooyeunleanne&show_icons=true&count_private=true)
