@@ -1,4 +1,5 @@
-I'm Leanne, a **Systems Design Engineering Student** at the University of Waterloo, passionate about open source software projects and collaborative work.
+Hi 👋 
+I'm a **Systems Design Engineering Student** at the University of Waterloo, passionate about open source software projects and collaborative work.
 
 ## 💻 Recent Projects
 ### 1. Personal Portfolio Website 
