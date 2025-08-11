@@ -12,8 +12,6 @@ Built to showcase my skills, projects, and professional experience in an interac
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="20px" title="Figma" />
 </span>
 
----
-
 ### 2. AKCSE UW Official Website  
 [![Website Link](https://img.shields.io/badge/Website-akcseuw.ca-blue?logo=google-chrome&logoColor=white)](https://akcseuw.ca)
  The official website for AKCSE UW, providing event details, membership info, and more.
@@ -26,8 +24,6 @@ Built to showcase my skills, projects, and professional experience in an interac
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="20px" title="Node.js" />
 </span>
 
----
-
 ### 3. WatGuessr (🛠️ In progress)
 [![GitHub Repo](https://img.shields.io/badge/Repo-black?logo=github)](https://github.com/rachelqrwei/watguessr)  
 A location guessing game for the University of Waterloo campus, inspired by GeoGuessr.
@@ -39,8 +35,3 @@ A location guessing game for the University of Waterloo campus, inspired by GeoG
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="20px" title="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="20px" title="PostgreSQL" />
 </span>
-
-### Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/sooyeunleanne/)
-- [Personal Website](https://sooyeunleanne.github.io/)
-- Or email me at (sooyeunleanne@gmail.com)
