@@ -16,7 +16,7 @@ An interactive hub for my skills, projects, and experience.
 </span>
 
 ### 🙋‍♀️ AKCSE UW Official Website  
-[![Website Link](https://img.shields.io/badge/Website-akcseuw.ca-blue?logo=google-chrome&logoColor=white)](https://akcseuw.ca)
+[![Website Link](https://img.shields.io/badge/Website-akcseuw.ca-skyblue)](https://akcseuw.ca)
 [![GitHub Repo](https://img.shields.io/badge/Repo-black?logo=github)](https://github.com/akcseuw/akcse-uw-official-website)  
  The official website for AKCSE UW, providing event details, membership info, and more.
 
