@@ -4,8 +4,9 @@ I'm a **Systems Design Engineering Student** at the University of Waterloo, pass
 
 ## Recent Projects
 ### 👩🏻‍💻 Personal Portfolio Website 
+[![Website Link](https://img.shields.io/badge/Website-akcseuw.ca-blue?logo=google-chrome&logoColor=white)](https://sooyeunleanne.github.io)
 [![GitHub Repo](https://img.shields.io/badge/Repo-black?logo=github)](https://github.com/sooyeunleanne/sooyeunleanne.github.io)  
-Built to showcase my skills, projects, and professional experience in an interactive way.
+An interactive hub for my skills, projects, and experience.
 
 **Tech Stack:**  
 <span>
