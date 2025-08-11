@@ -15,7 +15,8 @@ Built to showcase my skills, projects, and professional experience in an interac
 ---
 
 ### 2. AKCSE UW Official Website  
-[![Website Link](https://img.shields.io/badge/Website-akcseuw.ca-blue?logo=google-chrome&logoColor=white)](https://akcseuw.ca)
+<p>[![Website Link](https://img.shields.io/badge/Website-akcseuw.ca-blue?logo=google-chrome&logoColor=white)](https://akcseuw.ca)
+</p>
 The official website for AKCSE UW, providing event details, membership info, and more.
 
 **Tech Stack:**  
