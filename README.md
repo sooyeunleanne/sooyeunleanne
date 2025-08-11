@@ -15,9 +15,7 @@ Built to showcase my skills, projects, and professional experience in an interac
 ---
 
 ### 2. AKCSE UW Official Website  
-<a href="https://akcseuw.ca" target="_blank">
-  <i class="fas fa-external-link-alt"></i> akcseuw.ca
-</a>
+[![Website Link](https://img.shields.io/badge/Website-akcseuw.ca-blue?logo=google-chrome&logoColor=white)](https://akcseuw.ca)
 The official website for AKCSE UW, providing event details, membership info, and more.
 
 **Tech Stack:**  
@@ -31,7 +29,7 @@ The official website for AKCSE UW, providing event details, membership info, and
 ---
 
 ### 3. WatGuessr (🛠️ In progress)
-[![GitHub Repo](https://img.shields.io/badge/Repo-black?logo=github)](https://github.com/yourusername/watguessr)  
+[![GitHub Repo](https://img.shields.io/badge/Repo-black?logo=github)](https://github.com/rachelqrwei/watguessr)  
 A location guessing game for the University of Waterloo campus, inspired by GeoGuessr.
 
 **Tech Stack:**  
