@@ -19,6 +19,7 @@ An interactive hub for my skills, projects, and experience.
 [![Website Link](https://img.shields.io/badge/Website-akcseuw.ca-white)](https://akcseuw.ca)
 [![GitHub Repo](https://img.shields.io/badge/Repo-black?logo=github)](https://github.com/akcseuw/akcse-uw-official-website)  
  The official website for AKCSE UW, providing event details, membership info, and more.
+ Paricipated as a Development Lead and a Full-stack developer myself.
 
 **Tech Stack:**  
 <span>
