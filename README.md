@@ -29,7 +29,7 @@ An interactive hub for my skills, projects, and experience.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="20px" title="Node.js" />
 </span>
 
-### 📍 WatGuessr (🛠️ In progress)
+### 📍 WatGuessr
 [![GitHub Repo](https://img.shields.io/badge/Repo-black?logo=github)](https://github.com/rachelqrwei/watguessr)  
 A location guessing game for the University of Waterloo campus, inspired by GeoGuessr.
 
