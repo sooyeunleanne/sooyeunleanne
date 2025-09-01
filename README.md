@@ -1,6 +1,7 @@
 ### Hi 👋 
 
-I'm a **Systems Design Engineering Student** at the University of Waterloo, passionate about open source software projects and collaborative work.
+I'm a **Systems Design Engineering Student** at the University of Waterloo.
+I love learning about different aspects of software engineering through various projects and collaborative work!
 
 ## Recent Projects
 ### 👩🏻‍💻 Personal Portfolio Website 
