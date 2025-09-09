@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=hello!&height=100&section=header"/>
 </p>
 
 **full-stack developer** studying **systems design engineering** at **university of waterloo**
