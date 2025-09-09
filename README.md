@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=hello!&height=100&section=header"/>
 </p>
 
-**full-stack developer** studying **systems design engineering** at **university of waterloo**
+i'm a **full-stack developer** studying **systems design engineering** at **university of waterloo**
 
 ## recent
 ### 👩🏻‍💻 portfolio
