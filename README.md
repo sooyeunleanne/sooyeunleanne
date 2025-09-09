@@ -1,7 +1,9 @@
-### Hi 👋 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 I'm a **Systems Design Engineering Student** at the University of Waterloo.
-I love learning about different aspects of software engineering through various projects and collaborative work!
+Currently looking for Winter 2026 Internships!
 
 ## Recent Projects
 ### 👩🏻‍💻 Personal Portfolio Website 
