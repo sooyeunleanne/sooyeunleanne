@@ -30,7 +30,7 @@ official website for akcse uw providing event details, membership info, and more
 </span>
 
 ### 📍 watguessr
-[![GitHub Repo](https://img.shields.io/badge/Repo-black?logo=github)](https://github.com/rachelqrwei/watguessr)  
+[![GitHub Repo](https://img.shields.io/badge/Repo-black?logo=github)](https://github.com/sooyeunleanne/watguessr)
 a location guessing game for the waterloo campus, inspired by GeoGuessr.
 
 **tech stack:**  
