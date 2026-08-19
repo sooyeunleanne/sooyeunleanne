@@ -1,9 +1,5 @@
 <div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=hello! i'm leanne&height=100&section=header"/>
-</p>
-
 <img src="https://readme-typing-svg.demolab.com?font=Be+Vietnam+Pro&weight=500&size=30&pause=1200&color=599FBA&center=true&vCenter=true&width=640&height=60&lines=Leanne+Kim;Systems+Design+Engineering+%40+Waterloo;Full+Stack+%C2%B7+Architecture+%C2%B7+DevOps" alt="Leanne Kim — Systems Design Engineering @ Waterloo" />
 
 <p>
